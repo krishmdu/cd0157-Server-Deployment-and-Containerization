@@ -87,7 +87,7 @@ Metadata:
           - EksClusterName
     ParameterLabels:
       GitHubUser:
-        default: Username
+        default: krishmdu
       GitHubToken:
         default: Access token
       GitSourceRepo:
