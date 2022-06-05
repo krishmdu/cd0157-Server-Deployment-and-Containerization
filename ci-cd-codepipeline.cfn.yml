@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: SudKul
+    Default: krishmdu
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
@@ -87,7 +87,7 @@ Metadata:
           - EksClusterName
     ParameterLabels:
       GitHubUser:
-        default: krishmdu
+        default: Username
       GitHubToken:
         default: Access token
       GitSourceRepo:
